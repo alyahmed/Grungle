@@ -1,0 +1,47 @@
+<!-- BEGIN SIDEBAR -->
+<div class="sidebar" ng-show="isAuthenticated()">
+    <div>
+        <div class="logopanel">
+            <h1>
+                <a href=""></a>
+            </h1>
+        </div>
+    </div>
+    <div class="sidebar-inner" ng-switch="isAuthenticated()">
+        <ul class="nav nav-sidebar">
+            <li ui-sref-active="active">
+                <a ui-sref="home">
+                    <i class="icon-home"></i>
+                    <span>Home</span>
+                </a>
+            </li>
+            <li ui-sref-active="active" ng-switch-when="true">
+                <a ui-sref="dashboard">
+                    <i class="icon-picture"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li ui-sref-active="active" ng-switch-when="true">
+                <a ui-sref="stream">
+                    <i class="icon-picture"></i>
+                    <span>Trends</span>
+                </a>
+            </li>
+            <li id="nav_admin" class="nav-parent" ng-mouseover="addClass('nav_admin')"
+                ng-mouseleave="removeClass('nav_admin')" ng-class="{active: $state.includes('admin')}"
+                ng-switch-when="true" ng-show="isInRole('ROLE_ADMIN')">
+                <a href=""><i class="icon-bar-chart"></i><span>Admin</span><span class="fa arrow"></span></a>
+                <ul class="children collapse">
+                    <li ui-sref-active="active"><a ui-sref="tracker"><span>Tracker</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="metrics"><span>Metrics</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="health"><span>Health</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="configuration"><span>Configuration</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="audits"><span>Audits</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="logs"><span>Logs</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="docs"><span>API Docs</span></a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- END SIDEBAR -->

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41f1a526-9523-4244-83a3-82be3cbfaa7c" name="Default" comment="" />
+    <ignored path="grungle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="grungle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44424132">
+              <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../Work/sequenceiq-samples/spark-clustering" value="1436494035000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/domain/PersistentAuditEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/domain/Authority.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/DatabaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/PubResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/WebsocketSecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/SocialCredentials.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/social/SocialAuthenticator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/social/GithubTokenRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/social/GithubTokenResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/dto/user/GithubUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/MailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/AccountResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/RegistrationService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/grungle/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/grungle/web/rest/AccountResourceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/components/auth/auth.service.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/components/auth/provider/auth.xauth.service.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/assets/styles/less/style/sidebar.less" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application-prod.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/metrics/JHipsterHealthIndicatorConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mails/activationEmail.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/WebConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mails/passwordResetEmail.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grungle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/assets/images/logo" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.Debug Local Container">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grungle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run Locally [FAST]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map>
+                <entry key="fast" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Run Locally [DEV]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map>
+                <entry key="dev" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Debug Local Container" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.Run Locally [FAST]" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.Run Locally [DEV]" />
+      <item index="2" class="java.lang.String" itemvalue="Remote.Debug Local Container" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../Work/play-scala-intro" value="1436496092000" />
+        <entry key="$PROJECT_DIR$/../Work/spark-training/streaming/scala" value="1436139663000" />
+        <entry key="$USER_HOME$/Downloads/training-downloads/streaming/java" value="1403891252000" />
+        <entry key="$USER_HOME$/Downloads/training-downloads/streaming/scala" value="1403891252000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f1a526-9523-4244-83a3-82be3cbfaa7c" name="Default" comment="" />
+      <created>1444671586984</created>
+      <option name="number" value="Default" />
+      <updated>1444671586984</updated>
+      <workItem from="1444671596883" duration="8840000" />
+      <workItem from="1444870302161" duration="164000" />
+      <workItem from="1444874863398" duration="436000" />
+      <workItem from="1444967656420" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9781000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24513888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6166667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java</url>
+          <line>45</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grungle/security/AuthenticationProvider.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/apidoc/SwaggerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/swagger-ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74741673">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/WebsocketConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37777779">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/WebsocketSecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62222224">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/social/SocialCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/social/GithubTokenRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31111112">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28666666">
+          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/social/GithubTokenResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4888889">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/dto/user/GithubUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44444445">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/dto/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08888889">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9111111">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/repository/search/UserSearchRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/AuthoritiesConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/util/RandomUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42222223">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/AccountResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3631841">
+          <caret line="59" column="68" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/grungle/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95555556">
+          <caret line="113" column="56" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/RegistrationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/grungle/web/rest/AccountResourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35555556">
+          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4492754">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5555556">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javascript/spec/app/account/settings/settings.controller.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/principal.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.06555556">
+          <caret line="97" column="36" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/XAuthTokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/TokenProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6888889">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37777779">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/auth.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/provider/auth.xauth.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46666667">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037037">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/images/logo/logo-dark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/styles/less/style/sidebar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18957347">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3127962">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3665521">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="server:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="spring:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="profiles:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="datasource:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="jpa:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="hibernate:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="properties:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="data:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="elasticsearch:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="thymeleaf:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="metrics:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="spark:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="graphite:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="http:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="cache:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24305555">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="server:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="spring:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="profiles:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="datasource:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="jpa:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="hibernate:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="properties:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="data:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="elasticsearch:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="properties:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="path:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="messages:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="thymeleaf:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="metrics:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="spark:" />
+            <marker date="1444968100000" expanded="true" signature="-1:-1" placeholder="graphite:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/metrics/HealthIndicatorConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1736111">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1444968144000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1444968144000" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1444968144000" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1444968144000" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1444968144000" expanded="false" signature="-1:-1" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6996528">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="async:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="mail:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="authentication:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="xauth:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="swagger:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mails/activationEmail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10968921">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3472222">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/WebConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38368055">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+          <folding>
+            <marker date="1444968271000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34895834">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <marker date="1444968271000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4878472">
+          <caret line="475" column="86" selection-start-line="475" selection-start-column="86" selection-end-line="475" selection-end-column="86" />
+          <folding>
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968234000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.yo-rc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73126143">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1444671174000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671174000" expanded="true" signature="-1:-1" placeholder="{&quot;baseName&quot;: &quot;Grungle&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6996528">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="server:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="async:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="spring:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="datasource:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="jpa:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="hibernate:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="properties:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="mail:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="metrics:" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="swagger:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mails/passwordResetEmail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73126143">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4861111">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: 'autoprefixer'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dist&quot;: 'src/main/webapp/dist'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;src&quot;: 'src/test/javascript/karma.conf.js'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;block&quot;: /(([\s\t]*)\/\/\s*bower:*(\S*))(\n|\r|.)*?(\/\/\s*endbower)/gi...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;js&quot;: /'(.*\.js)'/gi...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;js&quot;: '\'{{filePath}}\','...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;watchTask&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;server&quot;: '.tmp'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dot&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;jshintrc&quot;: '.jshintrc'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;html&quot;: 'src/main/webapp/**/*.html'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: '&lt;%= yeoman.dist %&gt;'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;cwd&quot;: 'src/main/webapp'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;module&quot;: 'grungleApp'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;removeCommentsFromCDATA&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;removeCommentsFromCDATA&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;configFile&quot;: 'src/test/javascript/karma.conf.js'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;commit&quot;: true...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dir&quot;: 'deploy/openshift'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: 'grungleApp'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'src/main/webapp/scripts/app/app.constants.js'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;ENV&quot;: 'dev'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: '.tmp/scripts/app/app.constants.js'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{&quot;ENV&quot;: 'prod'...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44424132">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
