@@ -18,4 +18,8 @@ public final class Constants {
 
     public static final String SYSTEM_ACCOUNT = "system";
 
+    public static final String GH_BASE_URL = "https://github.com/login/oauth/access_token";
+    public static final String GH_USER_URL = "https://api.github.com/user?access_token=";
+
+
 }

@@ -1,6 +1,6 @@
 package com.grungle.service;
 
-import com.google.common.base.Preconditions;
+import com.grungle.config.Constants;
 import com.grungle.domain.User;
 import com.grungle.repository.UserRepository;
 import com.grungle.security.social.GithubTokenRequest;
@@ -29,9 +29,6 @@ public class SocialAuthService {
 
     private static final Logger LOG = LoggerFactory.getLogger(SocialAuthService.class);
 
-    private static final String BASE_URL = "https://github.com/login/oauth/access_token";
-    private static final String USER_URL = "https://api.github.com/user?access_token=";
-
     @Inject
     private RestTemplate restTemplate;
 
@@ -47,14 +44,13 @@ public class SocialAuthService {
     @Inject
     private UserDetailsService userDetailsService;
 
-
     public Token getTokenResponse(String code) {
         MultiValueMap<String, String> headers = new LinkedMultiValueMap<>();
         headers.add("Content-Type", MediaType.APPLICATION_JSON_VALUE);
         GithubTokenRequest req = new GithubTokenRequest(code);
         HttpEntity<GithubTokenRequest> request = new HttpEntity<>(req, headers);
-        GithubTokenResponse response = restTemplate.postForObject(BASE_URL, request, GithubTokenResponse.class);
-        LOG.debug("Getting user Object using access token");
+        GithubTokenResponse response = restTemplate.postForObject(Constants.GH_BASE_URL, request, GithubTokenResponse.class);
+        LOG.debug("Getting user Object using access token = {}", response.getAccessToken());
         GithubUser ghUser = getUser(response.getAccessToken());
         User user;
         Optional<User> dbUser = userRepository.findOneByLogin(ghUser.getEmail());
@@ -80,7 +76,7 @@ public class SocialAuthService {
 
 
     public GithubUser getUser(String accessToken) {
-        String url = USER_URL + accessToken;
+        String url = Constants.GH_USER_URL + accessToken;
         ResponseEntity<GithubUser> response = restTemplate.getForEntity(url, GithubUser.class);
         LOG.debug("Obtained Github user = {}", response);
         return response.getBody();

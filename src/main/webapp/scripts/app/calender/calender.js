@@ -3,17 +3,17 @@
 angular.module('grungleApp')
     .config(function ($stateProvider) {
         $stateProvider
-            .state('stream', {
-                parent: 'trend',
-                url: '/trend/stream',
+            .state('calender', {
+                parent: 'site',
+                url: '/calender',
                 data: {
                     roles: ['ROLE_USER'],
                     pageTitle: 'Authentication'
                 },
                 views: {
                     'content@': {
-                        templateUrl: 'scripts/app/trend/stream/stream.html',
-                        controller: 'StreamController'
+                        templateUrl: 'scripts/app/calender/calender.html',
+                        controller: 'CalenderController'
                     }
                 },
                 resolve: {

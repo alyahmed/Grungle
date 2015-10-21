@@ -123,7 +123,7 @@ angular.module('grungleApp', ['LocalStorageModule',
             scope: ['user:email'],
             scopeDelimiter: ' ',
             type: '2.0',
-            popupOptions: { width: 1020, height: 618 }
+            popupOptions: {width: 1020, height: 618}
         });
     });
 
