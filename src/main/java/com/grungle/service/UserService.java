@@ -1,7 +1,6 @@
 package com.grungle.service;
 
 import com.grungle.domain.User;
-import com.grungle.repository.AuthorityRepository;
 import com.grungle.repository.UserRepository;
 import com.grungle.repository.search.UserSearchRepository;
 import com.grungle.security.SecurityUtils;
@@ -36,21 +35,18 @@ public class UserService {
     @Inject
     private UserSearchRepository userSearchRepository;
 
-    @Inject
-    private AuthorityRepository authorityRepository;
-
     public Optional<User> activateRegistration(String key) {
         log.debug("Activating user for activation key {}", key);
         userRepository.findOneByActivationKey(key)
-                .map(user -> {
-                    // activate given user for the registration key.
-                    user.setActivated(true);
-                    user.setActivationKey(null);
-                    userRepository.save(user);
-                    userSearchRepository.save(user);
-                    log.debug("Activated user: {}", user);
-                    return user;
-                });
+            .map(user -> {
+                // activate given user for the registration key.
+                user.setActivated(true);
+                user.setActivationKey(null);
+                userRepository.save(user);
+                userSearchRepository.save(user);
+                log.debug("Activated user: {}", user);
+                return user;
+            });
         return Optional.empty();
     }
 
@@ -58,28 +54,28 @@ public class UserService {
         log.debug("Reset user password for reset key {}", key);
 
         return userRepository.findOneByResetKey(key)
-                .filter(user -> {
-                    DateTime oneDayAgo = DateTime.now().minusHours(24);
-                    return user.getResetDate().isAfter(oneDayAgo.toInstant().getMillis());
-                })
-                .map(user -> {
-                    user.setPassword(passwordEncoder.encode(newPassword));
-                    user.setResetKey(null);
-                    user.setResetDate(null);
-                    userRepository.save(user);
-                    return user;
-                });
+            .filter(user -> {
+                DateTime oneDayAgo = DateTime.now().minusHours(24);
+                return user.getResetDate().isAfter(oneDayAgo.toInstant().getMillis());
+            })
+            .map(user -> {
+                user.setPassword(passwordEncoder.encode(newPassword));
+                user.setResetKey(null);
+                user.setResetDate(null);
+                userRepository.save(user);
+                return user;
+            });
     }
 
     public Optional<User> requestPasswordReset(String mail) {
         return userRepository.findOneByLogin(mail)
-                .filter(user -> user.getActivated())
-                .map(user -> {
-                    user.setResetKey(RandomUtil.generateResetKey());
-                    user.setResetDate(DateTime.now());
-                    userRepository.save(user);
-                    return user;
-                });
+            .filter(user -> user.getActivated())
+            .map(user -> {
+                user.setResetKey(RandomUtil.generateResetKey());
+                user.setResetDate(DateTime.now());
+                userRepository.save(user);
+                return user;
+            });
     }
 
     public void updateUserInformation(String firstName, String lastName, String langKey) {
@@ -106,6 +102,14 @@ public class UserService {
     public User getUserWithAuthorities() {
         User currentUser = userRepository.findOneByLogin(SecurityUtils.getCurrentLogin()).get();
         currentUser.getAuthorities().size(); // eagerly load the association
+        return currentUser;
+    }
+
+
+    @Transactional(readOnly = true)
+    public User getUserWithProfiles() {
+        User currentUser = userRepository.findOneByLogin(SecurityUtils.getCurrentLogin()).get();
+        currentUser.getSocialProfiles().size(); // eagerly load the association
         return currentUser;
     }
 

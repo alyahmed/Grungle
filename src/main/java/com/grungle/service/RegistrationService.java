@@ -7,6 +7,7 @@ import com.grungle.repository.UserRepository;
 import com.grungle.repository.search.UserSearchRepository;
 import com.grungle.security.AuthoritiesConstants;
 import com.grungle.service.util.RandomUtil;
+import com.grungle.social.SocialPlatform;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -69,7 +70,7 @@ public class RegistrationService {
                                  String firstName,
                                  String lastName,
                                  String langKey,
-                                 String socialProvider) {
+                                 SocialPlatform socialProvider) {
         User newUser = new User();
         Authority authority = authorityRepository.findOne(AuthoritiesConstants.USER);
         Set<Authority> authorities = new HashSet<>();
@@ -81,7 +82,7 @@ public class RegistrationService {
         newUser.setLastName(lastName);
         newUser.setLangKey(langKey);
         newUser.setSocialAccount(true);
-        newUser.setSocialProvider(socialProvider);
+        newUser.setSocialProvider(socialProvider.name());
         // new user is not active
         newUser.setActivated(false);
         // new user gets registration key

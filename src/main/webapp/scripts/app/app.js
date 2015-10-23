@@ -151,4 +151,4 @@ angular.module("grungleApp").directive('ngSpinnerLoader', ['$rootScope',
             }
         };
     }
-])
+]);
