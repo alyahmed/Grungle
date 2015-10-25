@@ -6,7 +6,7 @@ angular.module('grungleApp')
             'get': { method: 'GET', params: {}, isArray: false,
                 interceptor: {
                     response: function(response) {
-                        // expose response
+                        // exposee response
                         return response;
                     }
                 }

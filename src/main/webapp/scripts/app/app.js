@@ -120,7 +120,7 @@ angular.module('grungleApp', ['LocalStorageModule',
             authorizationEndpoint: 'https://github.com/login/oauth/authorize',
             redirectUri: window.location.origin || window.location.protocol + '//' + window.location.host,
             optionalUrlParams: ['scope'],
-            scope: ['user:email'],
+            scope: ['user:email,public_repo,repo:status'],
             scopeDelimiter: ' ',
             type: '2.0',
             popupOptions: {width: 1020, height: 618}

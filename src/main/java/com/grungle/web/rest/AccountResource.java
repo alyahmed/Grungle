@@ -122,6 +122,17 @@ public class AccountResource {
     }
 
     /**
+     * GET  /account -> get the current user.
+     */
+    @RequestMapping(value = "/account/social",
+        method = RequestMethod.POST,
+        produces = MediaType.APPLICATION_JSON_VALUE)
+    @Timed
+    public ResponseEntity<UserDTO> updateAccessToken() {
+        return null;
+    }
+
+    /**
      * POST  /account -> update the current user information.
      */
     @RequestMapping(value = "/account",

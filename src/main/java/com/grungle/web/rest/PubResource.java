@@ -42,4 +42,6 @@ public class PubResource {
         LOG.debug("Obtained Github user = {}", response);
         return new ResponseEntity<>(response.getBody(), HttpStatus.OK);
     }
+
+
 }

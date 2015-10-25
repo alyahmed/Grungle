@@ -11,7 +11,7 @@
 
     <groupId>com.grungle</groupId>
     <artifactId>grungle</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.5.6-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>Grungle</name>
@@ -46,6 +46,7 @@
         <spring-security.version>4.0.1.RELEASE</spring-security.version>
         <springfox.version>2.0.3</springfox.version>
         <usertype-core.version>4.0.0.GA</usertype-core.version>
+        <mylyn.github.version>2.1.5</mylyn.github.version>
     </properties>
 
     <dependencies>
@@ -333,6 +334,13 @@
             <groupId>fr.ippon.spark.metrics</groupId>
             <artifactId>metrics-spark-reporter</artifactId>
             <version>${metrics-spark-reporter.version}</version>
+        </dependency>
+
+        <!-- Github Library -->
+        <dependency>
+            <groupId>org.eclipse.mylyn.github</groupId>
+            <artifactId>org.eclipse.egit.github.core</artifactId>
+            <version>${mylyn.github.version}</version>
         </dependency>
     </dependencies>
     <build>

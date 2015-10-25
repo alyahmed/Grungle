@@ -2,9 +2,11 @@
 
 angular.module('grungleApp')
     .controller('ProjectsController', function ($scope, $http, ChatService, Principal) {
-        $scope.profiles  = [];
+        // Model
+        $scope.projects = [];
 
-        $http.get('api/user/social_profiles').then(function(response){
-            $scope.profiles = response.data;
+        $http.get('api/projects').success(function (response) {
+            $scope.projects = response;
         });
+
     });
