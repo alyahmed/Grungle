@@ -59,7 +59,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
             .antMatchers("/bower_components/**")
             .antMatchers("/i18n/**")
             .antMatchers("/assets/**")
-            .antMatchers("/swagger-ui.html")
+            .antMatchers("/swagger-ui/**")
             .antMatchers("/test/**");
     }
 
@@ -102,10 +102,10 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
             .antMatchers("/autoconfig/**").hasAuthority(AuthoritiesConstants.ADMIN)
             .antMatchers("/env/**").hasAuthority(AuthoritiesConstants.ADMIN)
             .antMatchers("/trace/**").hasAuthority(AuthoritiesConstants.ADMIN)
-            .antMatchers("/v2/api-docs/**").hasAuthority(AuthoritiesConstants.ADMIN)
+            .antMatchers("/v2/api-docs/**").permitAll() // TODO: fix x-auth-token issue with swagger. Token not passed for this url.
             .antMatchers("/configuration/security").hasAuthority(AuthoritiesConstants.ADMIN)
             .antMatchers("/configuration/ui").hasAuthority(AuthoritiesConstants.ADMIN)
-            .antMatchers("/swagger-ui.html").hasAuthority(AuthoritiesConstants.ADMIN)
+            .antMatchers("/swagger-ui/**").hasAuthority(AuthoritiesConstants.ADMIN)
             .antMatchers("/protected/**").authenticated()
         .and()
             .apply(securityConfigurerAdapter());
