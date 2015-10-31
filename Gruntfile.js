@@ -109,9 +109,10 @@ module.exports = function (grunt) {
             },
             all: [
                 'Gruntfile.js',
-                'src/main/webapp/scripts/app.js',
+                'src/main/webapp/scripts/app/app.js',
                 'src/main/webapp/scripts/app/**/*.js',
-                'src/main/webapp/scripts/components/**/*.js'
+                'src/main/webapp/scripts/components/**/*.js',
+                'src/main/webapp/plugins/**/*.js'
             ]
         },
         concat: {
