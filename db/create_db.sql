@@ -151,6 +151,42 @@ INSERT INTO `T_PERSISTENT_AUDIT_EVT_DATA` VALUES (1,'message','Access is denied'
 UNLOCK TABLES;
 
 --
+-- Table structure for table `T_SOCIAL_PROFILE`
+--
+
+DROP TABLE IF EXISTS `T_SOCIAL_PROFILE`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `T_SOCIAL_PROFILE` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `email` varchar(255) NOT NULL,
+  `platform_login` varchar(100) DEFAULT NULL,
+  `first_name` varchar(55) DEFAULT NULL,
+  `last_name` varchar(55) DEFAULT NULL,
+  `image_url` varchar(255) DEFAULT NULL,
+  `access_token` varchar(255) NOT NULL,
+  `registered_user` bigint(20) NOT NULL,
+  `platform` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `unique_index` (`email`,`platform`),
+  KEY `fk_social_profile_reg_user_idx` (`registered_user`),
+  KEY `email_idx` (`email`),
+  KEY `platform_idx` (`platform`),
+  CONSTRAINT `fk_social_profile_reg_user` FOREIGN KEY (`registered_user`) REFERENCES `T_USER` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `T_SOCIAL_PROFILE`
+--
+
+LOCK TABLES `T_SOCIAL_PROFILE` WRITE;
+/*!40000 ALTER TABLE `T_SOCIAL_PROFILE` DISABLE KEYS */;
+INSERT INTO `T_SOCIAL_PROFILE` VALUES (1,'alyahmed220@gmail.com','alyahmed',NULL,NULL,'https://avatars.githubusercontent.com/u/6116146?v=3','18721fb1e294ae105d066944ea74aa20866579c8',3,'GITHUB');
+/*!40000 ALTER TABLE `T_SOCIAL_PROFILE` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `T_USER`
 --
 
@@ -229,4 +265,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-10-16  0:11:54
+-- Dump completed on 2015-11-02  8:12:21
