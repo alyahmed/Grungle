@@ -10,9 +10,6 @@ import javax.inject.Inject;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by ahmedaly on 2015-10-21.
- */
 @Service
 public class ProjectService {
 
