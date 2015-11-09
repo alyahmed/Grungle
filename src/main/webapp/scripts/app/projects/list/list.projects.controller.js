@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('grungleApp')
-    .controller('ProjectsController', function ($scope, $http, ChatService, Principal) {
+    .controller('ListProjectsController', function ($scope, $http, ChatService, Principal) {
         // Model
         $scope.projects = [];
 

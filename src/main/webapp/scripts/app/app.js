@@ -18,7 +18,7 @@ angular.module('grungleApp', ['LocalStorageModule',
         });
 
         $rootScope.$on('$stateChangeSuccess', function (event, toState, toParams, fromState, fromParams) {
-            var titleKey = 'TrendBend';
+            var titleKey = 'Grungle';
 
             $rootScope.previousStateName = fromState.name;
             $rootScope.previousStateParams = fromParams;

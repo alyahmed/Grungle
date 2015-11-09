@@ -21,11 +21,14 @@
                     <span>Dashboard</span>
                 </a>
             </li>
-            <li ui-sref-active="active" ng-switch-when="true">
-                <a ui-sref="projects">
-                    <i class="icon-picture"></i>
-                    <span>Projects</span>
-                </a>
+            <li id="projects_nav" class="nav-parent" ng-mouseover="addClass('projects_nav')"
+                ng-mouseleave="removeClass('projects_nav')" ng-class="{active: $state.includes('projects')}"
+                ng-switch-when="true" ng-show="isInRole('ROLE_USER')">
+                <a href=""> <i class="icon-picture"></i><span>Projects</span><span class="fa arrow"></span></a>
+                <ul class="children collapse">
+                    <li ui-sref-active="active"><a ui-sref="listProjects"><span>List</span></a></li>
+                    <li ui-sref-active="active"><a ui-sref="createProject"><span>New</span></a></li>
+                </ul>
             </li>
             <li ui-sref-active="active" ng-switch-when="true">
                 <a ui-sref="calender">
