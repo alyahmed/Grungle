@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f1a526-9523-4244-83a3-82be3cbfaa7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list_projects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.controller.js" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.html" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create_project.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.html" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.js" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="grungle.iws" />
@@ -1182,7 +1172,7 @@
       <workItem from="1446395536864" duration="301000" />
       <workItem from="1446469978115" duration="345000" />
       <workItem from="1446517346852" duration="709000" />
-      <workItem from="1447034761298" duration="2336000" />
+      <workItem from="1447034761298" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="Removing automated auditing configuration.">
       <created>1445219637630</created>
@@ -1226,11 +1216,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446470040173</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Breaking up projects state into create/list">
+      <created>1447037375553</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1447037375553</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34335000" />
+    <option name="totallyTimeSpent" value="34374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1238,6 +1234,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1263,7 +1260,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1286,7 +1282,8 @@
     <MESSAGE value="Removed security restriction on springfox api-docs.&#10;Issue with adding x-auth-token to header needs to be resolved." />
     <MESSAGE value="Updated Grunt packaging for production build to include vendor js/css files." />
     <MESSAGE value="Updated create sql script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated create sql script" />
+    <MESSAGE value="Breaking up projects state into create/list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Breaking up projects state into create/list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -63,6 +63,14 @@ public class UserXAuthTokenController {
     }
 
 
+    @RequestMapping(value = "/oauth/{provider}",
+        method = RequestMethod.GET)
+    public ResponseEntity<?> oAuthHandler(@PathVariable("provider") final String provider, @RequestParam String code) {
+        LOG.info("Attempting OAuth Authentication flow for provider = {} with code = {}", provider, code);
+        return ResponseEntity.ok(null);
+    }
+
+
     @RequestMapping(value = "/auth/{provider}",
             method = RequestMethod.POST)
     @Timed
