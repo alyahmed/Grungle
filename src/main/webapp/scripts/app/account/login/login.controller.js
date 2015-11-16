@@ -33,11 +33,12 @@ angular.module('grungleApp')
             });
         };
 
-        $scope.socialLogin = function () {
-            $log.debug("Attempting Social login");
-            $auth.authenticate('github')
+        $scope.socialLogin = function (provider) {
+            $log.debug("Attempting Social login for provider = " + provider);
+            $auth.authenticate(provider)
                 .then(function (response) {
                     var token = response.data.token;
+                    $log.info("Obtained token = " + token);
                     Auth.socialLogin(token).then(function () {
                         $scope.authenticationError = false;
                         $scope.isSuccess = true;
@@ -49,14 +50,14 @@ angular.module('grungleApp')
                     }).catch(function () {
                         $scope.isSuccess = false;
                         $scope.authenticationError = true;
-                        showError('Unable to authenticate using GitHub');
+                        showError('Unable to authenticate using ' + provider);
                     });
                 })
                 .catch(function (response) {
                     // Something went wrong.
                     $log.error(response);
                     $scope.authenticationError = true;
-                    showError('Unable to authenticate using GitHub');
+                    showError('Unable to authenticate using ' + provider);
                 });
         };
 

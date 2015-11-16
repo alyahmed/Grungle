@@ -49,7 +49,7 @@ public class SocialAuthService {
     private SocialProfileService socialProfileService;
 
 
-    public Token getTokenResponse(String code) {
+    public Token getTokenResponse(String code, SocialPlatform platform) {
         MultiValueMap<String, String> headers = new LinkedMultiValueMap<>();
         headers.add("Content-Type", MediaType.APPLICATION_JSON_VALUE);
         GithubTokenRequest req = new GithubTokenRequest(code);

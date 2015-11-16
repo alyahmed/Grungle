@@ -125,6 +125,11 @@ angular.module('grungleApp', ['LocalStorageModule',
             type: '2.0',
             popupOptions: {width: 1020, height: 618}
         });
+        $authProvider.google({
+            clientId: '21793977082-oi1jj2kb3b6j06l93vkmer5vh1hta56q.apps.googleusercontent.com',
+            url: 'api/auth/google',
+            redirectUri: window.location.origin || window.location.protocol + '//' + window.location.host
+        });
     });
 
 

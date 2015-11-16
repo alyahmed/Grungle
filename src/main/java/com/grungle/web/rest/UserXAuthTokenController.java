@@ -5,6 +5,7 @@ import com.grungle.security.social.SocialCredentials;
 import com.grungle.security.xauth.Token;
 import com.grungle.security.xauth.TokenProvider;
 import com.grungle.service.SocialAuthService;
+import com.grungle.social.SocialPlatform;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
@@ -76,7 +77,7 @@ public class UserXAuthTokenController {
     @Timed
     public ResponseEntity<?> socialAuthorization(@PathVariable("provider") final String provider, @RequestBody SocialCredentials creds) {
         LOG.info("Authenticating provider {} with code = {}", provider, creds.getCode());
-        Token token = socialAuthService.getTokenResponse(creds.getCode());
+        Token token = socialAuthService.getTokenResponse(creds.getCode(), SocialPlatform.getPlatform(provider));
         return new ResponseEntity<>(token, HttpStatus.OK);
     }
 }

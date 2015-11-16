@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f1a526-9523-4244-83a3-82be3cbfaa7c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" afterPath="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="grungle.iws" />
@@ -30,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create.project.controller.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.controller.js">
+      <file leaf-file-name="SocialAuthService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13745704">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.51890033">
+              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -69,16 +71,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/dto/user/GithubUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAccountService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/calender/calender.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/calender/calender.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/calender/calender.controller.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/RegistrationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/domain/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/assets/styles/kanban/kanban.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/components/auth/services/account.service.js" />
@@ -87,7 +85,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/assets/styles/main.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/AccountResource.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/PubResource.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.controller.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.html" />
@@ -107,10 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/ProjectResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/grungle/security/social/oauth/SocialAuthenticationProvider.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.js" />
@@ -120,6 +114,14 @@
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create_project.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/app.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/components/auth/provider/auth.xauth.service.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java" />
       </list>
     </option>
   </component>
@@ -169,9 +171,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,194 +221,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="list" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="create" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -429,74 +241,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="social" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -516,6 +260,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1172,7 +918,8 @@
       <workItem from="1446395536864" duration="301000" />
       <workItem from="1446469978115" duration="345000" />
       <workItem from="1446517346852" duration="709000" />
-      <workItem from="1447034761298" duration="2375000" />
+      <workItem from="1447034761298" duration="2874000" />
+      <workItem from="1447466141491" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="Removing automated auditing configuration.">
       <created>1445219637630</created>
@@ -1222,11 +969,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447037375553</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding oauth api callback and turning off x-auth security for it.">
+      <created>1447037490961</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1447037490961</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34374000" />
+    <option name="totallyTimeSpent" value="36301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1234,7 +987,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1260,6 +1012,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1283,14 +1036,15 @@
     <MESSAGE value="Updated Grunt packaging for production build to include vendor js/css files." />
     <MESSAGE value="Updated create sql script" />
     <MESSAGE value="Breaking up projects state into create/list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Breaking up projects state into create/list" />
+    <MESSAGE value="Adding oauth api callback and turning off x-auth security for it." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding oauth api callback and turning off x-auth security for it." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java</url>
-          <line>45</line>
+          <line>46</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1309,27 +1063,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22909507">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5040092">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3127148">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/AccountResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4272623">
@@ -1365,31 +1098,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/provider/auth.xauth.service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68728524">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/topbar/topbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1421801">
           <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45017183">
-          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20618556">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1511,20 +1223,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52691865">
           <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48109967">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3665521">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16036655">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5437352">
+          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/admin/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22909507">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20618556">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38625592">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2520046">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114547536">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22909507">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54620856">
+          <caret line="155" column="70" selection-start-line="155" selection-start-column="70" selection-end-line="155" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list_projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.521327">
+          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create_project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114547536">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09163803">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <marker date="1446518034000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446518034000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1446518034000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1446518034000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1446518034000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6334479">
-          <caret line="55" column="61" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.44788086">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
           <folding>
             <marker date="1444968271000" expanded="false" signature="-1:-1" placeholder="..." />
             <marker date="1444968271000" expanded="true" signature="-1:-1" placeholder="@{...}" />
@@ -1538,101 +1355,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/ProjectService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/repository/SocialProfileRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48109967">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09163803">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding>
-            <marker date="1446517417000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446517417000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3665521">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding>
-            <marker date="1447034925000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1447034925000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447034925000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447034925000" expanded="true" signature="-1:-1" placeholder=" { " />
-            <marker date="1447034925000" expanded="true" signature="-1:-1" placeholder=" }" />
-            <marker date="1447034925000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1447034925000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1447034925000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1447034925000" expanded="false" signature="-1:-1" placeholder=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/TokenProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.060710195">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding>
-            <marker date="1444671175000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/domain/Project.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16036655">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <marker date="1447035015000" expanded="true" signature="-1:-1" placeholder="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/config/SecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5437352">
-          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
-          <folding>
-            <marker date="1447035959000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447035959000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1447035959000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035959000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7434135">
-          <caret line="68" column="106" selection-start-line="68" selection-start-column="106" selection-end-line="68" selection-end-column="106" />
-          <folding>
-            <marker date="1447036043000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="@{...}" />
-            <marker date="1447036043000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466352000" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/domain/SocialProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22909507">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28980526">
+          <caret line="110" column="5" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
           <folding>
             <marker date="1445476318000" expanded="false" signature="-1:-1" placeholder="..." />
             <marker date="1445476318000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
@@ -1683,274 +1419,235 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18327606">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1447036201000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5687204">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.49763033">
+          <caret line="21" column="101" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
           <folding>
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445390406000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1447466546000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38946164">
-          <caret line="117" column="45" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.40091637">
+          <caret line="121" column="19" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
           <folding>
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;abstract&quot;: true...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/topbar/topbar.html'...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/navbar/navbar.html'...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/quickview/quickview.html'...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;delay&quot;: 2000...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;clientId&quot;: '10d3d0f1fbc5c1bc5b4b'...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447035390000" expanded="true" signature="-1:-1" placeholder="{&quot;scrollTop&quot;: 0...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;abstract&quot;: true...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/topbar/topbar.html'...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/navbar/navbar.html'...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/components/quickview/quickview.html'...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;delay&quot;: 2000...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;clientId&quot;: '10d3d0f1fbc5c1bc5b4b'...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;clientId&quot;: '21793977082-oi1jj2kb3b6j06l93vkmer5vh1hta56q.apps.googleusercontent.com'...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447466687000" expanded="true" signature="-1:-1" placeholder="{&quot;scrollTop&quot;: 0...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/admin/admin.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/security/xauth/TokenProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22909507">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.82474226">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{&quot;abstract&quot;: true...}" />
+            <marker date="1444671175000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.controller.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/account/login/login.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20618556">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.49369988">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding>
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1444671617000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{&quot;message&quot;: 'Please enter a valid username and password'...}" />
+            <marker date="1447467181000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/navbar/navbar.html">
+    <entry file="file://$PROJECT_DIR$/src/test/javascript/spec/app/account/settings/settings.controller.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38625592">
-          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.34364262">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447036954000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444671175000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.controller.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/auth.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2520046">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.6414662">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
           <folding>
-            <marker date="1447037006000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037006000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1444785545000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list.projects.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/components/auth/provider/auth.xauth.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.114547536">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.4925544">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
-            <marker date="1447036771000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036771000" expanded="true" signature="-1:-1" placeholder="{&quot;parent&quot;: 'projects'...}" />
-            <marker date="1447036771000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036771000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036771000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/app/projects/list/list_projects.html'...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{&quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded&quot;...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{&quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded&quot;...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467303000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/projects.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/social/SocialPlatform.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22909507">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18327606">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <marker date="1447036741000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447036741000" expanded="true" signature="-1:-1" placeholder="{&quot;abstract&quot;: true...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/web/rest/UserXAuthTokenController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54620856">
-          <caret line="155" column="70" selection-start-line="155" selection-start-column="70" selection-end-line="155" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.90950745">
+          <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
           <folding>
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037108000" expanded="true" signature="-1:-1" placeholder="{&quot;opacity&quot;: 1...}" />
+            <marker date="1447467440000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="@{...}" />
+            <marker date="1447467440000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/list/list_projects.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/grungle/service/SocialAuthService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.521327">
-          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-          <folding>
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445741884000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create_project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.114547536">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{&quot;parent&quot;: 'projects'...}" />
-            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1447037022000" expanded="true" signature="-1:-1" placeholder="{&quot;templateUrl&quot;: 'scripts/app/projects/create/create_project.html'...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/app/projects/create/create.project.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13745704">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.51890033">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
           <folding />
         </state>
       </provider>
